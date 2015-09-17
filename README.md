@@ -11,3 +11,10 @@ node/browserify/angular wrap around zip.js library
 http://gildas-lormeau.github.io/zip.js/
 
 Updated to commit [bfd76c66293305faaf9fcbb65b5ff7fe2dbe621a](https://github.com/gildas-lormeau/zip.js/commit/bfd76c66293305faaf9fcbb65b5ff7fe2dbe621a)
+
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
